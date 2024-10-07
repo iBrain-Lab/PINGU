@@ -1,0 +1,16 @@
+Preprint:
+https://arxiv.org/abs/2405.08337
+
+Setup:
+1) Set up python environment:
+conda env create -f environment.yml
+NOTE: the nnunet code may need to be installed separately with pip. pip install nnunet==1.7.0
+
+2) Download PINGU weights:
+DOI: 10.26180/27176523
+
+3) Set up nnUNet with PINGU weights:
+import_nnunet.sh
+
+4) run PINGU:
+run_pingu.sh
