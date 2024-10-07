@@ -1,3 +1,5 @@
+Perivascular space Identification Nnunet for Generalised Usage (PINGU)
+
 Preprint:
 https://arxiv.org/abs/2405.08337
 
@@ -14,3 +16,4 @@ import_nnunet.sh
 
 4) run PINGU:
 run_pingu.sh
+
