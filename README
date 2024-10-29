@@ -10,6 +10,8 @@ NOTE: the nnunet code may need to be installed separately with pip. pip install 
 
 2) Download PINGU weights:
 DOI: 10.26180/27176523
+https://dx.doi.org/10.26180/27176523
+https://bridges.monash.edu/articles/dataset/PINGU_Weights/27176523?file=49632888
 
 3) Set up nnUNet with PINGU weights:
 import_nnunet.sh
