@@ -18,8 +18,9 @@ elif [ $PINGU_version == 'PINGU-ADNI' ]; then
 fi
 echo dataset: $dataset
 #====================================== End Options
-
-weightsdir=/home/bsin0008/Documents/Work/Projects/PINGU/PINGU-All
+ 
+# specify where the weights are stored
+weightsdir=""
 
 
 # point to nnUNet weights
