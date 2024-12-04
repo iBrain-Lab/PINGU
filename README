@@ -15,6 +15,7 @@ https://bridges.monash.edu/articles/dataset/PINGU_Weights/27176523?file=49632888
 
 3) Set up nnUNet with PINGU weights:
 import_nnunet.sh
+# note, this assumes that the weights zip file is in the same directoru as the import_nnunet script
 
 4) Put T1 images in a single folder. All images must end with _0000.nii.gz (nnUNet constraints, sorry)
 
