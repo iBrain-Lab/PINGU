@@ -19,7 +19,7 @@ fi
 echo dataset: $dataset
 #====================================== End Options
  
-# specify where the weights are stored
+# specify where you want to store the weights
 weightsdir=""
 
 
