@@ -13,6 +13,11 @@ DOI: 10.26180/27176523
 https://dx.doi.org/10.26180/27176523
 https://bridges.monash.edu/articles/dataset/PINGU_Weights/27176523?file=49632888
 
+CLGMBs removed
+DOI:10.26180/30485546
+https://dx.doi.org/10.26180/30485546
+https://bridges.monash.edu/articles/dataset/PINGU_Weights_CLBGMs_removed/30485546?file=59171963
+
 3) Set up nnUNet with PINGU weights:
 import_nnunet.sh
 # note, this assumes that the weights zip file is in the same directoru as the import_nnunet script
